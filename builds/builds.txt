@@ -4,7 +4,7 @@ zip="https://github.com/lexguy2007/repository.openwizard/blob/master/zips/plugin
 
 name="Johnson Build 1.0.5"
 version="1.0.5"
-url="http://www.dropbox.com/s/2pgr5lwdttauc1k/johnsonbuild%201.0.5.zip?dl=1"
+url="https://github.com/lexguy2007/repository.openwizard/blob/master/builds/johnsonbuild%201.0.5.zip"
 minor="http://"
 gui="http://"
 kodi="18.3"
